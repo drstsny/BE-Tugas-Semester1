@@ -41,14 +41,14 @@ public class Barang {
     public String getNama_barang() {
         return nama_barang;
     }
-    public void setNama_barang(String Nama_barang) {
+    public void setNama_barang(String nama_barang) {
         this.nama_barang = nama_barang;
     }
 
     public Long getStok_barang() {
         return stok_barang;
     }
-    public void setStok_barang(Long Stok_barang) {
+    public void setStok_barang(Long stok_barang) {
         this.stok_barang = stok_barang;
     }
 
@@ -70,14 +70,14 @@ public class Barang {
     public Date getTanggal_kadaluarsa() {
         return tanggal_kadaluarsa;
     }
-    public void setTanggal_kadaluarsa(Date Tanggal_kadaluarsa) {
+    public void setTanggal_kadaluarsa(Date tanggal_kadaluarsa) {
         this.tanggal_kadaluarsa = tanggal_kadaluarsa;
     }
 
     public Float getHarga_barang() {
         return harga_barang;
     }
-    public void setHarga_barang(Float Harga_barang) {
+    public void setHarga_barang(Float harga_barang) {
         this.harga_barang = harga_barang;
     }
 
